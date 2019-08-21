@@ -5,7 +5,7 @@
 </head>
 <body>
 	<center>
-		<form method="POST" action="#">
+		<form method="POST" action="login.php">
 			<h3>Username :</h3>
 			<input type="text" name="username">
 			<h3>Password :</h3>
